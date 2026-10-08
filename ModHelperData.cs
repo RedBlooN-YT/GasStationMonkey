@@ -3,7 +3,7 @@ namespace GasStationMonkey;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "57.0";
-    public const string Version = "2.0.2";
+    public const string Version = "2.1.2";
     public const string Name = "GasStationMonkey";
 
     public const string Description = "Adds Gas Station Monkey to the game.";
